@@ -1,5 +1,5 @@
 # iarecollege-demo
 This is my first Git Repository.
 <br>
-Author-Abhiroshn thakur(iare college)
+Author- Abhiroshan Thakur (IARE college)
 
